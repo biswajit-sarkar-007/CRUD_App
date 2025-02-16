@@ -156,9 +156,13 @@ Ensure the following environment variables are configured in the `.env` file:
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
 
-## Screenshots
-Include relevant screenshots of your application for better understanding.
+## Screenshots/ videos
  
+ 
+
+https://github.com/user-attachments/assets/b0cf1234-ca7c-4ad6-ae7d-9a3e4b55d014
+
+
 ---
 Feel free to reach out for any queries or feedback!
 
